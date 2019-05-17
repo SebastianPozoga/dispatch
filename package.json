@@ -1,15 +1,15 @@
 {
-  "name": "dispatch",
+  "name": "@goatsystem/dispatch",
   "description": "A regular expression URL dispatcher for Connect",
   "main": "./lib/dispatch",
-  "author": "Caolan McMahon",
+  "author": "Caolan McMahon & Sebastian Pożoga",
   "version": "1.0.2",
   "repository": {
     "type": "git",
-    "url": "http://github.com/caolan/dispatch.git"
+    "url": "http://github.com/sebastianpozoga/dispatch.git"
   },
   "bugs": {
-    "url": "http://github.com/caolan/dispatch/issues"
+    "url": "http://github.com/caolan/sebastianpozoga/issues"
   },
   "licenses": [
     {
